@@ -1,2 +1,4 @@
 1;AFT-413;Toyota;Hilux;5;41000;Azul
 2;LIV-145;Kia;Picanto;5;29000;Verde
+3;LAP-332;Honda;Civi;5;20000;Blanco
+4;T4R-Y2K;Fiat;Panda;5;15000;Negro
